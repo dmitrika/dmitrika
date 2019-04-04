@@ -51,6 +51,7 @@ Let me try to describe my ideal for our team:
 * Get stuff done!
 
 ## Sources 
+* https://github.com/mr-bt/manager.README/blob/master/README.md
 * https://igormroz.com/documents/netflix_culture.pdf
 * https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe
 * http://randsinrepose.com/archives/how-to-rands/
