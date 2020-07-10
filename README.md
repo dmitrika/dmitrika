@@ -4,30 +4,17 @@ Born in 1992 and spent most of my live in [Rostov-on-Don](https://goo.gl/maps/JK
 * Our users at the forefront of everything that we do
 * Focus on product delivery through strong engineering culture and best practices
 * Compounding of continually improving small things through quick iterations
-* Little patience for bikeshedding, corporate culture, “box tickers” and “talk and no walk”
-* Little patience for apathy and indifference
+* Little patience for bikeshedding, corporate culture, “box tickers”, “talk and no walk”, apathy and indifference (probably not a full list)
 * Advocate of freedom & responsibility
-* Bias towards action. There’s value on having strategic discussions but most of the time is best to start with small and fast iterations so that we can prove (or not) our assumptions (fail-fast / learn-fast) and make visible progress
-* Experimentation and reflection as a constant practice. Experiment with people, tools, processes and environment.
+* Experimentation and reflection as a constant practice
 
 ### Communication
-* I'm bias toward transparency and radical candour. Ask anything, I'm committed to never lie to you ✋
-* Psychological safety is important
-* We may have disagreements and that’s OK :)
-* If there’s something wrong, I appreciate hearing it from you so we can fix it together
-
-### Feedback
 * Feedback is critical to our progress and success
-* Radical candour at its heart but don’t forget the below bullet point
-* [Three dimensions are required for people to continue to give you feedback](https://medium.com/@royrapoport/why-wont-you-talk-to-me-f30a01a1994c):
-  * Safety (unlikelihood of being punished for giving feedback; should be high)
-  * Effort (The amount of work in order to give feedback, also known as "how much do you argue when people give you feedback?"; should be low)
-  * Benefit (how likely is it that giving you feedback will materially impact your behaviour? should be high)
-* I’m making mistakes, please let me know ASAP and hold me accountable!
+* Radical candour backed by safety, recieveing mode and commited follow-up
+* If I made a mistake, please, let me know. I'll learn from it
 
-### The team
-Let me try to describe my ideal for our team:
-* Take control of, and responsibility for, our own destiny
+### Team
+* Take full control of product domain
 * Have each other’s back
 * Expect excellence in ourselves and each other
 * Assume positive intent
