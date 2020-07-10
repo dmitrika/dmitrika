@@ -1,7 +1,4 @@
-# Dmitry's README
-
-## Привет, I'm Dima
-I was born in 1992 and spent most of my live in [Rostov-on-Don](https://goo.gl/maps/JKqQuB141982). I like traveling, sport activites. Nowdays mostly chess, fitness and hiking. Watching movies & series, [and listening to music of course](https://youtu.be/CrTMc2i6Lzc) 🎸. I used to play a lot texas hold'em, CS1.6, Dota2, LoL and WoW. I enjoy pure art of engineering and science. Dogs > cats 🐶 Simple > complex 💁‍♂️
+Born in 1992 and spent most of my live in [Rostov-on-Don](https://goo.gl/maps/JKqQuB141982). I like traveling, sport activites. Nowdays mostly chess, fitness and hiking. Watching movies & series, [and listening to music of course](https://youtu.be/CrTMc2i6Lzc) 🎸. I used to play a lot texas hold'em, CS1.6, Dota2, LoL and WoW. I enjoy pure art of engineering and science. Dogs > cats 🐶 Simple > complex 💁‍♂️
 
 ### My job and how do I manage
 * Our users at the forefront of everything that we do
